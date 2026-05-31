@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hemant Dawn
+# Hi there 👋, I'm Hamantho Dawn
 
 ### 🚀 Computer Vision Engineer | Machine Learning Enthusiast | AI Developer
 
@@ -6,7 +6,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 👨‍💻 About Me
 
-* 👋 Hi, I'm **Hemant Dawn**
+* 👋 Hi, I'm **Hamantho Dawn**
 * 👀 Interested in **Computer Vision, Data Science, Machine Learning, Deep Learning, Generative AI, and Edge AI**
 * 🌱 Currently learning **Advanced Data Science, LLMs, RAG Systems, AI Agents, GPU Programming, and MLOps**
 * 💞️ Looking to collaborate on **Machine Learning, Computer Vision, AI Research, and Open Source Projects**
